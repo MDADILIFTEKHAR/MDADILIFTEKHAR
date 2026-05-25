@@ -65,7 +65,7 @@ Passionate about building AI-powered solutions, cybersecurity tools, and creativ
 
 - 💼 LinkedIn: www.linkedin.com/in/md-adil-iftekhar-213303217
 - 📸 Instagram: @md_adil_iftekhar
-- 📧 Email: your-email@example.com
+- 📧 Email: mdadilali68@gmail.com
 
 ---
 
