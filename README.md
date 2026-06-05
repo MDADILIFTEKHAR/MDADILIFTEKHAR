@@ -10,67 +10,62 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👋 Hello, I'm Md Adil Iftekhar
 
-🎓 Computer Science Student
+### Data Science Enthusiast | Python Developer | AI & Machine Learning Learner
 
-📊 Passionate about Data Science & Analytics
-
-🤖 Exploring Artificial Intelligence and Machine Learning
-
-🐍 Python Developer
-
-🚀 Open Source Contributor
-
-🌱 Currently Learning:
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Data Visualization
-- MLOps
-
-🎯 Goal:
-Become a Data Scientist and AI Engineer
+I am a Computer Science student passionate about Artificial Intelligence, Data Science, Machine Learning, and Software Development. I enjoy building intelligent systems, analyzing data, and contributing to open-source communities.
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 About Me
+
+- 🎓 Computer Science Student
+- 📊 Passionate about Data Science & Analytics
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🐍 Python Developer
+- 💻 Java Developer
+- 🌱 Currently Learning Deep Learning, Generative AI & MLOps
+- 🚀 Open Source Contributor
+- 🎯 Aspiring Data Scientist & AI Engineer
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/MDADILIFTEKHAR">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/md-adil-iftekhar-213303217">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,html,css"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" />
+</p>
 
-</div>
+### Tools & Platforms
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-## 📊 Data Science & AI Stack
+### Data Science & AI
 
-<div align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,sklearn"/>
-
-</div>
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,sklearn" />
+</p>
 
 ---
 
@@ -82,7 +77,7 @@ Become a Data Scientist and AI Engineer
 
 ### 🤖 AI Customer Support Chatbot
 
-AI-powered chatbot built using Python to automate customer interactions and improve support efficiency.
+AI-powered chatbot built using Python to automate customer support and improve user experience.
 
 </td>
 
@@ -90,7 +85,7 @@ AI-powered chatbot built using Python to automate customer interactions and impr
 
 ### 📊 Recommendation System
 
-Machine Learning based recommendation engine for personalized suggestions.
+Machine learning recommendation engine providing personalized suggestions.
 
 </td>
 </tr>
@@ -100,7 +95,7 @@ Machine Learning based recommendation engine for personalized suggestions.
 
 ### 📈 Data Analytics Dashboard
 
-Interactive dashboards for data visualization and business insights.
+Interactive dashboard for business intelligence, reporting, and visualization.
 
 </td>
 
@@ -108,7 +103,25 @@ Interactive dashboards for data visualization and business insights.
 
 ### 🏥 Healthcare Assistant
 
-AI-based healthcare information and support system.
+AI-powered healthcare information and guidance platform.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☕ Java Projects Collection
+
+Collection of Java, JDBC, Servlet, Swing, and database projects.
+
+</td>
+
+<td width="50%">
+
+### 📚 Data Science Portfolio
+
+Portfolio showcasing machine learning and data analytics projects.
 
 </td>
 </tr>
@@ -116,31 +129,17 @@ AI-based healthcare information and support system.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Leadership & Community
 
-🏅 Google Student Ambassador
-
-🏅 GeeksforGeeks Campus Mantri
-
-🏅 Open Source Contributor
-
-🏅 Hackathon Participant
-
-🏅 Technical Community Leader
+- Google Student Ambassador
+- GeeksforGeeks Campus Mantri
+- Open Source Contributor
+- Hackathon Participant
+- Technical Community Leader
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MDADILIFTEKHAR&theme=algolia&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 <div align="center">
 
@@ -152,7 +151,7 @@ AI-based healthcare information and support system.
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -162,7 +161,7 @@ AI-based healthcare information and support system.
 
 ---
 
-# 📊 Activity Graph
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -172,7 +171,17 @@ AI-based healthcare information and support system.
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MDADILIFTEKHAR&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -182,23 +191,28 @@ AI-based healthcare information and support system.
 
 ---
 
-# 📚 Current Focus
+## 📚 Current Learning
 
-🔹 Data Science
-
-🔹 Machine Learning
-
-🔹 Artificial Intelligence
-
-🔹 Generative AI
-
-🔹 Open Source
-
-🔹 Software Development
+- Machine Learning
+- Deep Learning
+- Generative AI
+- MLOps
+- Large Language Models (LLMs)
+- Data Visualization
 
 ---
 
-# 💡 Quote
+## 🎯 2026 Goals
+
+- Build impactful AI applications
+- Contribute to major open-source projects
+- Publish advanced Data Science projects
+- Strengthen Machine Learning expertise
+- Secure opportunities in AI & Data Science
+
+---
+
+## 💡 Quote
 
 <div align="center">
 
@@ -210,6 +224,8 @@ AI-based healthcare information and support system.
 
 <div align="center">
 
-⭐ If you like my work, consider following my profile ⭐
+⭐ Thank you for visiting my profile! ⭐
+
+If you find my projects useful, consider following my GitHub journey.
 
 </div>
