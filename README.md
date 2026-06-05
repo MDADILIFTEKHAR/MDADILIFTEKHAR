@@ -1,139 +1,215 @@
-<h1 align="center">Hi 👋, I'm Md Adil Iftekhar</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Data Science Enthusiast | Python Developer | AI Explorer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:06B6D4&text=Md%20Adil%20Iftekhar&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
-<p align="center">
-Turning Data into Insights & Code into Solutions
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&lines=Data+Science+Enthusiast;Python+Developer;AI+%26+Machine+Learning+Learner;Open+Source+Contributor;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=MDADILIFTEKHAR&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+# 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
-🎓 B.Tech CSE Student
+🎓 Computer Science Student
 
 📊 Passionate about Data Science & Analytics
 
+🤖 Exploring Artificial Intelligence and Machine Learning
+
 🐍 Python Developer
 
-🤖 Exploring Machine Learning & AI
+🚀 Open Source Contributor
 
-🌱 Currently learning:
+🌱 Currently Learning:
 - Machine Learning
 - Deep Learning
+- Generative AI
 - Data Visualization
-- AI Agents
-
-🏆 Open Source Contributor
+- MLOps
 
 🎯 Goal:
-Become a Data Scientist & AI Engineer
+Become a Data Scientist and AI Engineer
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://github.com/MDADILIFTEKHAR">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/md-adil-iftekhar-213303217">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+<div align="center">
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode,html,css"/>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Data Science & AI Stack
 
-### 🤖 AI Chatbot
-AI-powered assistant using Python
+<div align="center">
 
-### 📊 Data Analytics Dashboard
-Data visualization and insights platform
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,sklearn"/>
 
-### 🏥 MediMitra
-AI-driven healthcare companion
-
-### 📈 Machine Learning Projects
-Prediction and analytics models
+</div>
 
 ---
 
-## 🏆 Achievements
+# 🚀 Featured Projects
 
-🥇 Google Student Ambassador
+<table>
+<tr>
+<td width="50%">
 
-🥇 GSSoC Contributor
+### 🤖 AI Customer Support Chatbot
 
-🥇 GeeksforGeeks Campus Mantri
+AI-powered chatbot built using Python to automate customer interactions and improve support efficiency.
 
-🥇 Hackathon Finalist
+</td>
 
-🥇 Open Source Contributor
+<td width="50%">
 
----
+### 📊 Recommendation System
 
-## 📈 GitHub Analytics
+Machine Learning based recommendation engine for personalized suggestions.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MDADILIFTEKHAR&show_icons=true&theme=tokyonight"/>
-</p>
+</td>
+</tr>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MDADILIFTEKHAR&theme=tokyonight"/>
-</p>
+<tr>
+<td width="50%">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDADILIFTEKHAR&layout=compact&theme=tokyonight"/>
-</p>
+### 📈 Data Analytics Dashboard
 
----
+Interactive dashboards for data visualization and business insights.
 
-## 🐍 Contribution Snake
+</td>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
+<td width="50%">
 
----
+### 🏥 Healthcare Assistant
 
-### ✨ Quote
+AI-based healthcare information and support system.
 
-"Success is not about being the best.
-It's about being better than yesterday."
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+# 🏆 Achievements
+
+🏅 Google Student Ambassador
+
+🏅 GeeksforGeeks Campus Mantri
+
+🏅 Open Source Contributor
+
+🏅 Hackathon Participant
+
+🏅 Technical Community Leader
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MDADILIFTEKHAR&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDADILIFTEKHAR&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDADILIFTEKHAR&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MDADILIFTEKHAR&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MDADILIFTEKHAR&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📚 Current Focus
+
+🔹 Data Science
+
+🔹 Machine Learning
+
+🔹 Artificial Intelligence
+
+🔹 Generative AI
+
+🔹 Open Source
+
+🔹 Software Development
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### "Turning Data into Insights and Ideas into Intelligent Solutions."
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you like my work, consider following my profile ⭐
+
+</div>
